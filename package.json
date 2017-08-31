@@ -1,0 +1,14 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "web scraping indeed",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "KrisHughes <kristopher_hughes@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "3.5.0"
+  }
+}
